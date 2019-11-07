@@ -51,7 +51,8 @@
     "lodash": "^4.17.4",
     "prop-types": "^15.5.10",
     "quill": "Wishberry/quill#develop",
-    "react-dom-factories": "^1.0.0"
+    "react-dom-factories": "^1.0.0",
+    "webpack": "^1.4.13"
   },
   "peerDependencies": {
     "react": "^0.14.9 || ^15.3.0 || ^16.0.0"
@@ -74,7 +75,6 @@
     "should": "^4.3.0",
     "sinon": "^2.3.5",
     "travis-cov": "^0.2.5",
-    "uglify-js": "^3.0.18",
-    "webpack": "^1.4.13"
+    "uglify-js": "^3.0.18"
   }
 }
